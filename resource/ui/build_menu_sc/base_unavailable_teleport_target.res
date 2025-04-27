@@ -1,1 +1,0 @@
-#base "../build_menu/base_unavailable_teleport_target.res"
